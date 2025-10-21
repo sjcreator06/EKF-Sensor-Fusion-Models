@@ -1,1 +1,1 @@
-{"time":float, "values":{"acc": [X,Y,Z], "mgt": [X,Y,Z], "gyro": [X,Y,Z]}}
+{"time":float, "values":{"acc": [X,Y,Z], "mag": [X,Y,Z], "gyro": [X,Y,Z]}}
