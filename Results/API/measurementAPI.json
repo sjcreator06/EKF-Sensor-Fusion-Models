@@ -1,1 +1,1 @@
-{"Time (s)": float, "Values":{"Accelerometer (g)": [X,Y,Z], "Magnetometer (nT)": [X,Y,Z],"Gyroscope (deg/s)": [X,Y,Z]}}
+{"Time (s)":float,"Values":{"Accelerometer (g)": [X,Y,Z], "Magnetometer (nT)": [X,Y,Z],"Gyroscope (deg/s)": [X,Y,Z]}}
