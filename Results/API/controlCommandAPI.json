@@ -1,1 +1,1 @@
-{"Time (s)": float, "Values":{"Reaction Wheels": [X,Y,Z], "Magnetorquer": [X,Y,Z]}
+{"time": float, "values":{"rw": [X,Y,Z], "mgt": [X,Y,Z]}
